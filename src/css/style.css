@@ -226,6 +226,59 @@
 
     }
 
+    #foco2{
+
+        background-image: url(/src/assets/Mobile/s3.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 150vw;
+      
+        .container{
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            max-width: 100%;
+
+        }
+
+        .foco2Content{
+
+            display: flex;
+            justify-content: center;
+            align-items: flex-end;
+            height: 100vw;
+
+        }
+
+        .foco2Content__titulo{
+
+            font-size: 2.2rem;
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+            color: black;
+            text-transform: uppercase;
+            font-weight: 400;
+
+        }
+
+        .foco2ContentCorpo{
+
+            display: flex;
+            justify-content: center;
+
+        }
+
+        .foco2ContentCorpo__texto{
+
+            text-align: center;
+            font-size: 1.2rem;
+
+        }
+
+    }
+
 
 
 }
