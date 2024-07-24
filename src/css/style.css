@@ -564,6 +564,25 @@
 
         }
 
+        .servicoContent{
+
+            display: flex;
+            justify-content: center;
+
+        }
+
+        .servicoContent__titulo{
+
+            color: #f7ead2;
+            font-size: 7vw;
+            text-transform: uppercase;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 600;
+            
+
+
+        }
+
     }
 
 }
