@@ -10,7 +10,7 @@
 
     #home{
 
-        background-image: url('/src/assets/Mobile/s1.png');
+        background-image: url('/assets/Mobile/s1.png');
         background-size: cover;
         background-repeat: no-repeat;
         width: 100%;
@@ -172,7 +172,7 @@
 
     #foco1{
 
-        background-image: url('/src/assets/Mobile/s2.png');
+        background-image: url('/assets/Mobile/s2.png');
         background-size: cover;
         background-repeat: no-repeat;
         width: 100%;
@@ -228,7 +228,7 @@
 
     #foco2{
 
-        background-image: url(/src/assets/Mobile/s3.png);
+        background-image: url(/assets/Mobile/s3.png);
         background-size: cover;
         background-repeat: no-repeat;
         width: 100%;
@@ -281,7 +281,7 @@
 
     #foco3{
 
-        background-image: url('/src/assets/Mobile/s4.png');
+        background-image: url('/assets/Mobile/s4.png');
         background-size: cover;
         background-repeat: no-repeat;
         width: 100%;
@@ -366,6 +366,74 @@
 
     }
 
+    
+    #fakeLead1{
+
+        background-color: #d3557c;
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: fit-content;
+
+        .container{
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            max-width: 100%;
+
+        }
+
+        .fl1Content{
+
+            display: flex;
+            justify-content: center;
+
+        }
+
+        .fl1Content__titulo{
+
+            font-size: 6vw;
+            text-transform: uppercase;
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 600;
+            transform: translateY(30vw);
+            text-align: right;
+
+        }
+
+        .fl1ContentTexto{
+
+            text-transform: uppercase;
+            text-align: left;
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+            display: flex;
+            justify-content: left;
+            font-size: 4vw;
+            transform: translateY(30vw);
+            padding-left: 3vw;
+
+        }
+
+        .maosImage{
+
+            width: 25vw;
+
+        }
+
+        .posixMao{
+
+            display: flex;
+            justify-content: center;
+            margin-bottom: 50vw;
+            position: relative;
+            top: 30vw;
+
+        }
+
+    }
 
 }
 
