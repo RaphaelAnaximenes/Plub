@@ -578,8 +578,17 @@
             text-transform: uppercase;
             font-family: Arial, Helvetica, sans-serif;
             font-weight: 600;
+            padding-right: 30vw;
             
 
+
+        }
+
+        .containerTexto__texto{
+
+            color: #f7ead2;
+            font-size: 5vw;
+            line-height: 2.5rem;
 
         }
 
