@@ -4,11 +4,11 @@
         margin: 0;
     }
     
-    .desktop{
+    .desktop {
         display: block;
     }
-
-    .mobile{
+    
+    .mobile {
         display: none;
     }
     
@@ -17,19 +17,23 @@
         overflow: hidden;
         font-size: 1.2vw;
         display: flex;
-        justify-content: center;
+        justify-content: center; /* Centraliza os itens horizontalmente */
+        align-items: center; /* Centraliza os itens verticalmente */
+        text-align: center; /* Centraliza o texto dentro de cada item */
     }
+    
     .menu a {
-        float: left;
-        display: block;
+        display: inline-block; /* Exibe os itens em linha e permite centralização */
         color: white;
         text-align: center;
         padding: 1.2rem;
         text-decoration: none;
     }
+    
     .menu a:hover {
         background-color: black;
     }
+    
 
 }
 
