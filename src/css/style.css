@@ -801,7 +801,7 @@
         background-size: cover;
         background-repeat: no-repeat;
         width: 100%;
-        height: 50vw;
+        height: 69vw;
 
         .foco1ContainerDesk{
 
@@ -840,6 +840,53 @@
 
 
         }
+
+    }
+
+    #foco2{
+
+        background-image: url(/src/assets/Desktop/4.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 70vw;
+
+        .foco2ContainerDesk{
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: flex-start;
+
+        }
+
+        .focoLeftDesk{
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            transform: translateX(50%);
+            padding-top: 30vw;
+        
+
+
+        }
+
+        .focoLeftDesk__titulo{
+
+            font-size: 4vw;
+            text-transform: uppercase;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 600;
+        }
+
+        .focoLeftDesk__texto{
+
+            font-size: 2.3vw;
+            font-family: Arial, Helvetica, sans-serif;
+
+        }
+
 
     }
     
