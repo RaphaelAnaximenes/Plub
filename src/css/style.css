@@ -10,7 +10,7 @@
 
     #home{
 
-        background-image: url('/src/assets/Mobile/s1.png');
+        background-image: url('/assets/Mobile/s1.png');
         background-size: cover;
         background-repeat: no-repeat;
         width: 100%;
@@ -174,7 +174,7 @@
 
     #foco1{
 
-        background-image: url('/src/assets/Mobile/s2.png');
+        background-image: url('/assets/Mobile/s2.png');
         background-size: cover;
         background-repeat: no-repeat;
         width: 100%;
@@ -230,7 +230,7 @@
 
     #foco2{
 
-        background-image: url(/src/assets/Mobile/s3.png);
+        background-image: url(/assets/Mobile/s3.png);
         background-size: cover;
         background-repeat: no-repeat;
         width: 100%;
@@ -283,7 +283,7 @@
 
     #foco3{
 
-        background-image: url('/src/assets/Mobile/s4.png');
+        background-image: url('/assets/Mobile/s4.png');
         background-size: cover;
         background-repeat: no-repeat;
         width: 100%;
@@ -573,7 +573,7 @@
 
     #servicos{
 
-        background-image: url('/src/assets/Mobile/s11.png');
+        background-image: url('/assets/Mobile/s11.png');
         background-size: cover;
         background-repeat: no-repeat;
         width: 100%;
@@ -640,7 +640,7 @@
 
     #home{
 
-        background-image: url(/src/assets/Desktop/1.png);
+        background-image: url(/assets/Desktop/1.png);
         background-size: cover;
         background-repeat: no-repeat;
         width: 100%;
@@ -798,7 +798,7 @@
 
     #foco1{
 
-        background-image: url(/src/assets/Desktop/3.png);
+        background-image: url(/assets/Desktop/3.png);
         background-size: cover;
         background-repeat: no-repeat;
         width: 100%;
@@ -846,7 +846,7 @@
 
     #foco2{
 
-        background-image: url(/src/assets/Desktop/4.png);
+        background-image: url(/assets/Desktop/4.png);
         background-size: cover;
         background-repeat: no-repeat;
         width: 100%;
@@ -893,7 +893,7 @@
 
     #foco3{
 
-        background-image: url(/src/assets/Desktop/5.png);
+        background-image: url(/assets/Desktop/5.png);
         background-size: cover;
         background-repeat: no-repeat;
         width: 100%;
@@ -962,7 +962,7 @@
     #fakeLead3{
 
     
-        background-image: url(/src/assets/Desktop/7.png);
+        background-image: url(/assets/Desktop/7.png);
         background-size: cover;
         background-repeat: no-repeat;
         width: 100%;
@@ -1004,7 +1004,7 @@
 
     #servicos{
 
-        background-image: url(/src/assets/Desktop/8.png);
+        background-image: url(/assets/Desktop/8.png);
         background-size: cover;
         background-repeat: no-repeat;
         width: 100%;
