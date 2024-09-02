@@ -48,7 +48,8 @@
 
         .homeContent__texto{
 
-            font-size: 1.2rem;
+            font-size: 4.5vw;
+            font-weight: 200;
 
         }
         
@@ -141,7 +142,7 @@
         .somosContent__texto{
 
             color: white;
-            font-size: 1.2rem;
+            font-size: 4.5vw;
             line-height: 2.5rem;
             font-family: Arial, Helvetica, sans-serif;
 
@@ -200,7 +201,7 @@
         
         .foco1Content__titulo{
 
-            font-size: 2.7rem;
+            font-size: 11vw;
             text-align: center;
             text-transform: uppercase;
             font-family: Arial, Helvetica, sans-serif;
@@ -220,7 +221,7 @@
         .focoContentCorpo__texto{
 
             text-align: center;
-            font-size: 1.4rem;
+            font-size: 5.7vw;
             color: #f7ead2;
             font-family: Arial, Helvetica, sans-serif;
 
@@ -256,7 +257,7 @@
 
         .foco2Content__titulo{
 
-            font-size: 2.2rem;
+            font-size: 9vw;
             text-align: center;
             font-family: Arial, Helvetica, sans-serif;
             color: black;
@@ -275,7 +276,7 @@
         .foco2ContentCorpo__texto{
 
             text-align: center;
-            font-size: 1.2rem;
+            font-size: 5vw;
 
         }
 
@@ -316,7 +317,7 @@
             text-align: center;
             text-transform: uppercase;
             font-family: Arial, Helvetica, sans-serif;
-            color: #d3557c;
+            color: #d4557b;
             font-weight: 600;
 
         }
@@ -340,7 +341,7 @@
 
     #fakeSession{
 
-        background-color: #191c26;
+        background-color: #1f202b;
         background-size: cover;
         background-repeat: no-repeat;
         width: 100%;
@@ -361,7 +362,7 @@
        
             color: white;
             text-align: center;
-            font-size: 1.3rem;
+            font-size: 4.5vw;
             text-transform: uppercase;
             font-family: Arial, Helvetica, sans-serif;
         }
@@ -493,10 +494,13 @@
 
         .posixMao{
             display: flex;
+            flex-direction: column;
             justify-content: center;
+            align-self: center;
             margin-bottom: 50vw;
             position: relative;
-            top: 35vw;
+            top: 25vw;
+            width: 25vw;
         }
 
         .pig02{
@@ -556,8 +560,11 @@
 
         .posixMao{
 
-            display: flex;
-            justify-content: center;
+         display: flex;
+         flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          align-self: center;
            margin-bottom: 50vw;
            position: relative;
            top: 35vw;
@@ -612,6 +619,7 @@
 
             color: #f7ead2;
             font-size: 5vw;
+            padding-left: 2vw;
             line-height: 2.5rem;
             transform: translateX(2.5%);
 
