@@ -379,7 +379,7 @@
             text-align: center;
             font-size: 4.5vw;
             text-transform: uppercase;
-            font-family: Arial, Helvetica, sans-serif;
+            font-family: 'Montserrat';
         }
 
     }
@@ -903,16 +903,16 @@
 
         .focoLeftDesk__titulo{
 
-            font-size: 4vw;
+            font-size: 3vw;
             text-transform: uppercase;
-            font-family: Arial, Helvetica, sans-serif;
             font-weight: 600;
+            font-family: 'Autowide';
         }
 
         .focoLeftDesk__texto{
 
-            font-size: 2.3vw;
-            font-family: Arial, Helvetica, sans-serif;
+            font-size: 2vw;
+            font-family: 'Montserrat';
 
         }
 
@@ -952,7 +952,7 @@
 
             font-size: 4vw;
             text-transform: uppercase;
-            font-family: Arial, Helvetica, sans-serif;
+            font-family: 'audiowide';
             font-weight: 600;
             color: #d3557c;
             transform: translateX(60%);
@@ -962,9 +962,9 @@
 
             color: #d3557c;
             font-size: 2vw;
-            font-family: Arial, Helvetica, sans-serif;
             line-height: 2rem;
             transform: translateX(60%);
+            font-family: 'Montserrat';
             line-height: 3rem;
         }
 
@@ -1015,10 +1015,10 @@
 
             color: white;
             font-size: 3vw;
-            font-family: Arial, Helvetica, sans-serif;
             text-transform: uppercase;
             text-align: center;
             font-weight: 200;
+            font-family: 'Montserrat';
 
         }
 
@@ -1061,7 +1061,7 @@
 
             font-size: 4.5vw;
             text-transform: uppercase;
-            font-family: Arial, Helvetica, sans-serif;
+            font-family: 'Raleway';
             transform: translateX(13%);
 
         }
@@ -1069,7 +1069,7 @@
         .textoSomosDesk__texto{
 
             font-size: 2.5vw;
-            font-family: Arial, Helvetica, sans-serif;
+            font-family: 'Raleway';
             line-height: 5rem;
             transform: translateX(10%);
             
